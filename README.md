@@ -4,7 +4,7 @@
 Hi there! I'm a backend developer using Javascript. 
 <br><br>I'm currently working on creating a chat application using WebSockets by myself.
 <br><br>
-😚 I enjoy playing League of legends, spending time with my puppy, and going for walks :) 
+My ultimate goal is to become a full-stack developer. 😚
 <br>
 <br>
 
@@ -24,8 +24,8 @@ Hi there! I'm a backend developer using Javascript.
 
 <img src="https://img.shields.io/badge/Javascript-3178C6?style=for-the-badge&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <br>
-<br>
 <br><br>
+
 
 
 ## 👀 Tools
@@ -60,7 +60,7 @@ Hi there! I'm a backend developer using Javascript.
 
 
 
-<br><br><br>
+<br><br>
 
 <!--
 **crystalation/crystalation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
