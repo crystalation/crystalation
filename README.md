@@ -2,8 +2,9 @@
 
 
 Hi there! I'm backend developer using Javascript. 
-<br>I'm currently working on creating a chat application using WebSockets.
-<br>I enjoy playing computer games such as League of legends, taking a walk with my puppy :) 
+<br><br>I'm currently working on creating a chat application using WebSockets by myself.
+<br><br>
+😚 I enjoy playing League of legends, spending time with my puppy, and going for walks :) 
 <br>
 <br>
 
